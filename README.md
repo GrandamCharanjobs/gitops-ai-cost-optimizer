@@ -82,6 +82,10 @@ kubectl get pods               # 100+ OutOfpods demo
 
 
 ## 💰 Optimization Roadmap
+<img width="1470" height="956" alt="Screenshot 2026-02-11 at 3 48 14 PM" src="https://github.com/user-attachments/assets/62641e3a-b6c7-4dc9-8559-d8270feceeaa" />
+
+
+
 
 | Phase | Action | Savings |
 |-------|--------|---------|
@@ -89,3 +93,9 @@ kubectl get pods               # 100+ OutOfpods demo
 | Week 2 | KEDA HPA (10PM-6AM) | **20% ($5/mo)** |
 | Week 3 | Karpenter + Spot | **30% ($7.50/mo)** |
 | **Total** | | **$25/mo (100%)** |
+<img width="1470" height="956" alt="Screenshot 2026-02-11 at 6 17 22 PM" src="https://github.com/user-attachments/assets/7bafa5eb-ccca-44d4-a284-5401c8a25130" />
+<img width="1470" height="956" alt="Screenshot 2026-02-11 at 6 17 27 PM" src="https://github.com/user-attachments/assets/eff1138d-cbc3-4e02-b279-fe108fb4c451" />
+
+
+<img width="1470" height="956" alt="Screenshot 2026-02-11 at 6 17 31 PM" src="https://github.com/user-attachments/assets/69fcad56-305b-4b2d-a097-b1946e7d1f35" />
+
